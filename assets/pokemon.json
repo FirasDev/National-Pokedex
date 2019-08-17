@@ -4,7 +4,7 @@
             "id": 1,
             "num": "001",
             "name": "Bulbasaur",
-            "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+            "img": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/375px-001Bulbasaur.png",
             "type": [
                 "Grass",
                 "Poison"
