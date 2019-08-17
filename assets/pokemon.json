@@ -4,7 +4,7 @@
             "id": 1,
             "num": "001",
             "name": "Bulbasaur",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_001_00.png",
+            "img": "https://i.imgur.com/Mi0mOPA.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -115,7 +115,7 @@
             "id": 4,
             "num": "004",
             "name": "Charmander",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_004_00.png",
+            "img": "https://i.imgur.com/lVNyVfZ.gif",
             "type": [
                 "Fire"
             ],
@@ -187,7 +187,7 @@
             "id": 6,
             "num": "006",
             "name": "Charizard",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_006_00.png",
+            "img": "http://i.imgur.com/XqLCXWO.gif",
             "type": [
                 "Fire",
                 "Flying"
