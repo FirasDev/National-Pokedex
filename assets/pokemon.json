@@ -220,7 +220,7 @@
             "id": 7,
             "num": "007",
             "name": "Squirtle",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/375px-007Squirtle.png",
+            "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
             "type": [
                 "Water"
             ],
@@ -254,7 +254,7 @@
             "id": 8,
             "num": "008",
             "name": "Wartortle",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/375px-008Wartortle.png",
+            "img": "https://www.serebii.net/pokemongo/pokemon/008.png",
             "type": [
                 "Water"
             ],
@@ -290,7 +290,7 @@
             "id": 9,
             "num": "009",
             "name": "Blastoise",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/0/02/009Blastoise.png/375px-009Blastoise.png",
+            "img": "https://www.serebii.net/pokemongo/pokemon/009.png",
             "type": [
                 "Water"
             ],
