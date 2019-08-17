@@ -4,7 +4,7 @@
             "id": 1,
             "num": "001",
             "name": "Bulbasaur",
-            "img": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_001_00.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -41,7 +41,7 @@
             "id": 2,
             "num": "002",
             "name": "Ivysaur",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/7/73/002Ivysaur.png/375px-002Ivysaur.png",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_002_00.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -81,7 +81,7 @@
             "id": 3,
             "num": "003",
             "name": "Venusaur",
-            "img": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_00.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -115,7 +115,7 @@
             "id": 4,
             "num": "004",
             "name": "Charmander",
-            "img": "https://img.pokemondb.net/artwork/charmander.jpg",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_004_00.png",
             "type": [
                 "Fire"
             ],
@@ -150,7 +150,7 @@
             "id": 5,
             "num": "005",
             "name": "Charmeleon",
-            "img": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_005_00.png",
             "type": [
                 "Fire"
             ],
@@ -187,7 +187,7 @@
             "id": 6,
             "num": "006",
             "name": "Charizard",
-            "img": "https://img.pokemondb.net/artwork/charizard.jpg",
+            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_006_00.png",
             "type": [
                 "Fire",
                 "Flying"
