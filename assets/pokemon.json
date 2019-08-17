@@ -4,7 +4,7 @@
             "id": 1,
             "num": "001",
             "name": "Bulbasaur",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/375px-001Bulbasaur.png",
+            "img": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
             "type": [
                 "Grass",
                 "Poison"
@@ -81,7 +81,7 @@
             "id": 3,
             "num": "003",
             "name": "Venusaur",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/375px-003Venusaur.png.png",
+            "img": "https://img.pokemondb.net/artwork/ivysaur.jpg",
             "type": [
                 "Grass",
                 "Poison"
@@ -115,7 +115,7 @@
             "id": 4,
             "num": "004",
             "name": "Charmander",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/375px-004Charmander.png.png",
+            "img": "https://img.pokemondb.net/artwork/charmander.jpg",
             "type": [
                 "Fire"
             ],
@@ -150,7 +150,7 @@
             "id": 5,
             "num": "005",
             "name": "Charmeleon",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/4/4a/005Charmeleon.png/375px-005Charmeleon.png",
+            "img": "https://img.pokemondb.net/artwork/charmeleon.jpg",
             "type": [
                 "Fire"
             ],
@@ -187,7 +187,7 @@
             "id": 6,
             "num": "006",
             "name": "Charizard",
-            "img": "https://cdn.bulbagarden.net/upload/thumb/7/7e/006Charizard.png/375px-006Charizard.png",
+            "img": "https://img.pokemondb.net/artwork/charizard.jpg",
             "type": [
                 "Fire",
                 "Flying"
@@ -220,7 +220,7 @@
             "id": 7,
             "num": "007",
             "name": "Squirtle",
-            "img": "https://www.serebii.net/pokemongo/pokemon/007.png",
+            "img": "https://img.pokemondb.net/artwork/squirtle.jpg",
             "type": [
                 "Water"
             ],
@@ -254,7 +254,7 @@
             "id": 8,
             "num": "008",
             "name": "Wartortle",
-            "img": "https://www.serebii.net/pokemongo/pokemon/008.png",
+            "img": "https://img.pokemondb.net/artwork/wartortle.jpg",
             "type": [
                 "Water"
             ],
@@ -290,7 +290,7 @@
             "id": 9,
             "num": "009",
             "name": "Blastoise",
-            "img": "https://www.serebii.net/pokemongo/pokemon/009.png",
+            "img": "https://img.pokemondb.net/artwork/blastoise.jpg",
             "type": [
                 "Water"
             ],
