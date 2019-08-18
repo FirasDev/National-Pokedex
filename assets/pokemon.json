@@ -41,7 +41,7 @@
             "id": 2,
             "num": "002",
             "name": "Ivysaur",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_002_00.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446627411787827/Ivysaur.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -81,7 +81,7 @@
             "id": 3,
             "num": "003",
             "name": "Venusaur",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_00.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446847264620554/Venusaur.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -115,7 +115,7 @@
             "id": 4,
             "num": "004",
             "name": "Charmander",
-            "img": "https://i.imgur.com/lVNyVfZ.gif",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446235546353664/Charmander.gif",
             "type": [
                 "Fire"
             ],
@@ -150,7 +150,7 @@
             "id": 5,
             "num": "005",
             "name": "Charmeleon",
-            "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_005_00.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446661993693217/Charmeleon.gif",
             "type": [
                 "Fire"
             ],
@@ -187,7 +187,7 @@
             "id": 6,
             "num": "006",
             "name": "Charizard",
-            "img": "http://i.imgur.com/XqLCXWO.gif",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446665227501628/Charizard.gif",
             "type": [
                 "Fire",
                 "Flying"
@@ -220,7 +220,7 @@
             "id": 7,
             "num": "007",
             "name": "Squirtle",
-            "img": "https://img.pokemondb.net/artwork/squirtle.jpg",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446383726919701/Squirtle.gif",
             "type": [
                 "Water"
             ],
@@ -254,7 +254,7 @@
             "id": 8,
             "num": "008",
             "name": "Wartortle",
-            "img": "https://img.pokemondb.net/artwork/wartortle.jpg",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446510772256791/Wartortle.gif",
             "type": [
                 "Water"
             ],
@@ -290,7 +290,7 @@
             "id": 9,
             "num": "009",
             "name": "Blastoise",
-            "img": "https://img.pokemondb.net/artwork/blastoise.jpg",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446934484910100/Blastoise.gif",
             "type": [
                 "Water"
             ],
@@ -321,7 +321,7 @@
             "id": 10,
             "num": "010",
             "name": "Caterpie",
-            "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612447464385019958/Caterpie.gif",
             "type": [
                 "Bug"
             ],
@@ -356,7 +356,7 @@
             "id": 11,
             "num": "011",
             "name": "Metapod",
-            "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612447469929889797/Metapod.gif",
             "type": [
                 "Bug"
             ],
