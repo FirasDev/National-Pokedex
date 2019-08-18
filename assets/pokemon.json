@@ -1490,7 +1490,7 @@
             "id": 46,
             "num": "046",
             "name": "Paras",
-            "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455056348020779/Paras.gif",
             "type": [
                 "Bug",
                 "Grass"
@@ -1525,7 +1525,7 @@
             "id": 47,
             "num": "047",
             "name": "Parasect",
-            "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456079904997386/Parasect.gif",
             "type": [
                 "Bug",
                 "Grass"
@@ -1557,7 +1557,7 @@
             "id": 48,
             "num": "048",
             "name": "Venonat",
-            "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455806767464448/Venonat.gif",
             "type": [
                 "Bug",
                 "Poison"
@@ -1591,7 +1591,7 @@
             "id": 49,
             "num": "049",
             "name": "Venomoth",
-            "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456166248939520/Venomoth.gif",
             "type": [
                 "Bug",
                 "Poison"
@@ -1621,7 +1621,7 @@
             "id": 50,
             "num": "050",
             "name": "Diglett",
-            "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454512900309002/Diglett.gif",
             "type": [
                 "Ground"
             ],
@@ -1652,7 +1652,7 @@
             "id": 51,
             "num": "051",
             "name": "Dugtrio",
-            "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455893455470593/Dugtrio.gif",
             "type": [
                 "Ground"
             ],
@@ -1680,7 +1680,7 @@
             "id": 52,
             "num": "052",
             "name": "Meowth",
-            "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455402038362133/Meowth.gif",
             "type": [
                 "Normal"
             ],
@@ -1709,7 +1709,7 @@
             "id": 53,
             "num": "053",
             "name": "Persian",
-            "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456027518009374/Persian.gif",
             "type": [
                 "Normal"
             ],
@@ -1735,7 +1735,7 @@
             "id": 54,
             "num": "054",
             "name": "Psyduck",
-            "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455040610992174/Psyduck.gif",
             "type": [
                 "Water"
             ],
@@ -1765,7 +1765,7 @@
             "id": 55,
             "num": "055",
             "name": "Golduck",
-            "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456044282773549/Golduck.gif",
             "type": [
                 "Water"
             ],
@@ -1792,7 +1792,7 @@
             "id": 56,
             "num": "056",
             "name": "Mankey",
-            "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454788327800832/Mankey.gif",
             "type": [
                 "Fighting"
             ],
@@ -1824,7 +1824,7 @@
             "id": 57,
             "num": "057",
             "name": "Primeape",
-            "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455711821266974/Primeape.gif",
             "type": [
                 "Fighting"
             ],
@@ -1852,7 +1852,7 @@
             "id": 58,
             "num": "058",
             "name": "Growlithe",
-            "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454807780851765/Growlithe.gif",
             "type": [
                 "Fire"
             ],
@@ -1884,7 +1884,7 @@
             "id": 59,
             "num": "059",
             "name": "Arcanine",
-            "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456289049640961/Arcanine.gif",
             "type": [
                 "Fire"
             ],
@@ -1912,7 +1912,7 @@
             "id": 60,
             "num": "060",
             "name": "Poliwag",
-            "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455380685160448/Poliwag.gif",
             "type": [
                 "Water"
             ],
@@ -1947,7 +1947,7 @@
             "id": 61,
             "num": "061",
             "name": "Poliwhirl",
-            "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455996383821835/Poliwhirl.gif",
             "type": [
                 "Water"
             ],
@@ -1983,7 +1983,7 @@
             "id": 62,
             "num": "062",
             "name": "Poliwrath",
-            "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455991891722290/Poliwrath.gif",
             "type": [
                 "Water",
                 "Fighting"
@@ -2018,7 +2018,7 @@
             "id": 63,
             "num": "063",
             "name": "Abra",
-            "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456172414566401/Abra.gif",
             "type": [
                 "Psychic"
             ],
@@ -2054,7 +2054,7 @@
             "id": 64,
             "num": "064",
             "name": "Kadabra",
-            "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456263087030273/Kadabra.gif",
             "type": [
                 "Psychic"
             ],
@@ -2091,7 +2091,7 @@
             "id": 65,
             "num": "065",
             "name": "Alakazam",
-            "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456360260534347/Alakazam.gif",
             "type": [
                 "Psychic"
             ],
@@ -2123,7 +2123,7 @@
             "id": 66,
             "num": "066",
             "name": "Machop",
-            "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454839208902686/Machop.gif",
             "type": [
                 "Fighting"
             ],
@@ -2159,7 +2159,7 @@
             "id": 67,
             "num": "067",
             "name": "Machoke",
-            "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456071381909515/Machoke.gif",
             "type": [
                 "Fighting"
             ],
@@ -2196,7 +2196,7 @@
             "id": 68,
             "num": "068",
             "name": "Machamp",
-            "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456025848545291/Machamp.gif",
             "type": [
                 "Fighting"
             ],
@@ -2228,7 +2228,7 @@
             "id": 69,
             "num": "069",
             "name": "Bellsprout",
-            "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454840181850138/Bellsprout.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -2265,7 +2265,7 @@
             "id": 70,
             "num": "070",
             "name": "Weepinbell",
-            "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643377413881866/Weepinbell.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -2304,7 +2304,7 @@
             "id": 71,
             "num": "071",
             "name": "Victreebel",
-            "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644115670237184/Victreebel.gif",
             "type": [
                 "Grass",
                 "Poison"
@@ -2338,7 +2338,7 @@
             "id": 72,
             "num": "072",
             "name": "Tentacool",
-            "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643295759302656/Tentacool.gif",
             "type": [
                 "Water",
                 "Poison"
@@ -2370,7 +2370,7 @@
             "id": 73,
             "num": "073",
             "name": "Tentacruel",
-            "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644737807286277/Tentacruel.gif",
             "type": [
                 "Water",
                 "Poison"
@@ -2399,7 +2399,7 @@
             "id": 74,
             "num": "074",
             "name": "Geodude",
-            "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643639637704705/Geodude.gif",
             "type": [
                 "Rock",
                 "Ground"
@@ -2439,7 +2439,7 @@
             "id": 75,
             "num": "075",
             "name": "Graveler",
-            "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644680328544278/Graveler.gif",
             "type": [
                 "Rock",
                 "Ground"
@@ -2481,7 +2481,7 @@
             "id": 76,
             "num": "076",
             "name": "Golem",
-            "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644829507354654/Golem.gif",
             "type": [
                 "Rock",
                 "Ground"
@@ -2517,7 +2517,7 @@
             "id": 77,
             "num": "077",
             "name": "Ponyta",
-            "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643745606664204/Ponyta.gif",
             "type": [
                 "Fire"
             ],
@@ -2549,7 +2549,7 @@
             "id": 78,
             "num": "078",
             "name": "Rapidash",
-            "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644822213459968/Rapidash.gif",
             "type": [
                 "Fire"
             ],
@@ -2577,7 +2577,7 @@
             "id": 79,
             "num": "079",
             "name": "Slowpoke",
-            "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643276239011840/Slowpoke.gif",
             "type": [
                 "Water",
                 "Psychic"
@@ -2611,7 +2611,7 @@
             "id": 80,
             "num": "080",
             "name": "Slowbro",
-            "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644613320081436/Slowbro.gif",
             "type": [
                 "Water",
                 "Psychic"
@@ -2642,7 +2642,7 @@
             "id": 81,
             "num": "081",
             "name": "Magnemite",
-            "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642269283090443/Magnemite.gif",
             "type": [
                 "Electric"
             ],
@@ -2674,7 +2674,7 @@
             "id": 82,
             "num": "082",
             "name": "Magneton",
-            "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644659034062892/Magneton.gif",
             "type": [
                 "Electric"
             ],
@@ -2702,7 +2702,7 @@
             "id": 83,
             "num": "083",
             "name": "Farfetch'd",
-            "img": "http://www.serebii.net/pokemongo/pokemon/083.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643007845629958/Farfetchd.gif",
             "type": [
                 "Normal",
                 "Flying"
@@ -2724,7 +2724,7 @@
             "id": 84,
             "num": "084",
             "name": "Doduo",
-            "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643215379660840/Doduo.gif",
             "type": [
                 "Normal",
                 "Flying"
@@ -2756,7 +2756,7 @@
             "id": 85,
             "num": "085",
             "name": "Dodrio",
-            "img": "http://www.serebii.net/pokemongo/pokemon/085.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644233165406258/Dodrio.gif",
             "type": [
                 "Normal",
                 "Flying"
@@ -2784,7 +2784,7 @@
             "id": 86,
             "num": "086",
             "name": "Seel",
-            "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643545395888128/Seel.gif",
             "type": [
                 "Water"
             ],
@@ -2815,7 +2815,7 @@
             "id": 87,
             "num": "087",
             "name": "Dewgong",
-            "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643675255603203/Dewgong.gif",
             "type": [
                 "Water",
                 "Ice"
@@ -2845,7 +2845,7 @@
             "id": 88,
             "num": "088",
             "name": "Grimer",
-            "img": "http://www.serebii.net/pokemongo/pokemon/088.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644659881312266/Grimer.gif",
             "type": [
                 "Poison"
             ],
@@ -2875,7 +2875,7 @@
             "id": 89,
             "num": "089",
             "name": "Muk",
-            "img": "http://www.serebii.net/pokemongo/pokemon/089.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644917042479133/Muk.gif",
             "type": [
                 "Poison"
             ],
@@ -2902,7 +2902,7 @@
             "id": 90,
             "num": "090",
             "name": "Shellder",
-            "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642841163726858/Shellder.gif",
             "type": [
                 "Water"
             ],
@@ -2932,7 +2932,7 @@
             "id": 91,
             "num": "091",
             "name": "Cloyster",
-            "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644718794244097/Cloyster.gif",
             "type": [
                 "Water",
                 "Ice"
@@ -2962,7 +2962,7 @@
             "id": 92,
             "num": "092",
             "name": "Gastly",
-            "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643739164475394/Gastly.gif",
             "type": [
                 "Ghost",
                 "Poison"
@@ -2999,7 +2999,7 @@
             "id": 93,
             "num": "093",
             "name": "Haunter",
-            "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644438770188324/Haunter.gif",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3039,7 +3039,7 @@
             "id": 94,
             "num": "094",
             "name": "Gengar",
-            "img": "http://www.serebii.net/pokemongo/pokemon/094.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643876909350940/Gengar.gif",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3073,7 +3073,7 @@
             "id": 95,
             "num": "095",
             "name": "Onix",
-            "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644492725714954/Onix.gif",
             "type": [
                 "Rock",
                 "Ground"
@@ -3099,7 +3099,7 @@
             "id": 96,
             "num": "096",
             "name": "Drowzee",
-            "img": "http://www.serebii.net/pokemongo/pokemon/096.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643838363959296/Drowzee.gif",
             "type": [
                 "Psychic"
             ],
@@ -3131,7 +3131,7 @@
             "id": 97,
             "num": "097",
             "name": "Hypno",
-            "img": "http://www.serebii.net/pokemongo/pokemon/097.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644064407453696/Hypno.gif",
             "type": [
                 "Psychic"
             ],
@@ -3159,7 +3159,7 @@
             "id": 98,
             "num": "098",
             "name": "Krabby",
-            "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643346040750081/Krabby.gif",
             "type": [
                 "Water"
             ],
@@ -3190,7 +3190,7 @@
             "id": 99,
             "num": "099",
             "name": "Kingler",
-            "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644134217580565/Kingler.gif",
             "type": [
                 "Water"
             ],
@@ -3217,7 +3217,7 @@
             "id": 100,
             "num": "100",
             "name": "Voltorb",
-            "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643153589305354/Voltorb.gif",
             "type": [
                 "Electric"
             ],
@@ -3247,7 +3247,7 @@
             "id": 101,
             "num": "101",
             "name": "Electrode",
-            "img": "http://www.serebii.net/pokemongo/pokemon/101.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644184972853288/Electrode.gif",
             "type": [
                 "Electric"
             ],
@@ -3273,7 +3273,7 @@
             "id": 102,
             "num": "102",
             "name": "Exeggcute",
-            "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643815517454356/Exeggcute.gif",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3310,7 +3310,7 @@
             "id": 103,
             "num": "103",
             "name": "Exeggutor",
-            "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644078970077252/Exeggutor.gif",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3343,7 +3343,7 @@
             "id": 104,
             "num": "104",
             "name": "Cubone",
-            "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642955575951374/Cubone.gif",
             "type": [
                 "Ground"
             ],
@@ -3374,7 +3374,7 @@
             "id": 105,
             "num": "105",
             "name": "Marowak",
-            "img": "http://www.serebii.net/pokemongo/pokemon/105.png",
+            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612647211565842454/Marowak.gif",
             "type": [
                 "Ground"
             ],
