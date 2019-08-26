@@ -4,7 +4,9 @@
             "id": 1,
             "num": "001",
             "name": "Bulbasaur",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612444682349182997/Bulbasaur.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -41,7 +43,9 @@
             "id": 2,
             "num": "002",
             "name": "Ivysaur",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446627411787827/Ivysaur.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -81,7 +85,9 @@
             "id": 3,
             "num": "003",
             "name": "Venusaur",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446847264620554/Venusaur.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -115,7 +121,9 @@
             "id": 4,
             "num": "004",
             "name": "Charmander",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446235546353664/Charmander.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -150,7 +158,9 @@
             "id": 5,
             "num": "005",
             "name": "Charmeleon",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446661993693217/Charmeleon.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -187,7 +197,9 @@
             "id": 6,
             "num": "006",
             "name": "Charizard",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446665227501628/Charizard.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire",
                 "Flying"
@@ -220,7 +232,9 @@
             "id": 7,
             "num": "007",
             "name": "Squirtle",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446383726919701/Squirtle.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -254,7 +268,9 @@
             "id": 8,
             "num": "008",
             "name": "Wartortle",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446510772256791/Wartortle.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -290,7 +306,9 @@
             "id": 9,
             "num": "009",
             "name": "Blastoise",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612446934484910100/Blastoise.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -321,7 +339,9 @@
             "id": 10,
             "num": "010",
             "name": "Caterpie",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612447464385019958/Caterpie.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug"
             ],
@@ -356,7 +376,9 @@
             "id": 11,
             "num": "011",
             "name": "Metapod",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612447469929889797/Metapod.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug"
             ],
@@ -394,7 +416,9 @@
             "id": 12,
             "num": "012",
             "name": "Butterfree",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450220877545522/Butterfree.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Flying"
@@ -429,7 +453,9 @@
             "id": 13,
             "num": "013",
             "name": "Weedle",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612449969487740987/Weedle.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -467,7 +493,9 @@
             "id": 14,
             "num": "014",
             "name": "Kakuna",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450131324829696/Kakuna.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -507,7 +535,9 @@
             "id": 15,
             "num": "015",
             "name": "Beedrill",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450141491953673/Beedrill.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -541,7 +571,9 @@
             "id": 16,
             "num": "016",
             "name": "Pidgey",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612449817246957573/Pidgey.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -577,7 +609,9 @@
             "id": 17,
             "num": "017",
             "name": "Pidgeotto",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612449884972515369/Pidgeotto.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -614,7 +648,9 @@
             "id": 18,
             "num": "018",
             "name": "Pidgeot",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450048613285899/Pidgeot.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -646,7 +682,9 @@
             "id": 19,
             "num": "019",
             "name": "Rattata",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612449849371131963/Rattata.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -676,7 +714,9 @@
             "id": 20,
             "num": "020",
             "name": "Raticate",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450173603282945/Raticate.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -702,7 +742,9 @@
             "id": 21,
             "num": "021",
             "name": "Spearow",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450862857453568/Spearow.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -734,7 +776,9 @@
             "id": 22,
             "num": "022",
             "name": "Fearow",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612451106106376214/Fearow.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/022.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -762,7 +806,9 @@
             "id": 23,
             "num": "023",
             "name": "Ekans",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450980038049929/Ekans.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -793,7 +839,9 @@
             "id": 24,
             "num": "024",
             "name": "Arbok",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612451188373192753/Arbok.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -820,7 +868,9 @@
             "id": 25,
             "num": "025",
             "name": "Pikachu",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450998677405712/Pikachu.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -849,7 +899,9 @@
             "id": 26,
             "num": "026",
             "name": "Raichu",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612450984597258250/Raichu.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -875,7 +927,9 @@
             "id": 27,
             "num": "027",
             "name": "Sandshrew",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612451016972959744/Sandshrew.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/027.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -906,7 +960,9 @@
             "id": 28,
             "num": "028",
             "name": "Sandslash",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612451136359890965/Sandslash.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -934,7 +990,9 @@
             "id": 29,
             "num": "029",
             "name": "Nidoran ♀ (Female)",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452811585880104/Nidoran_Female.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -969,7 +1027,9 @@
             "id": 30,
             "num": "030",
             "name": "Nidorina",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452738202206268/Nidorina.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/030.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -1006,7 +1066,9 @@
             "id": 31,
             "num": "031",
             "name": "Nidoqueen",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612453094378438686/Nidoqueen.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison",
                 "Ground"
@@ -1040,7 +1102,9 @@
             "id": 32,
             "num": "032",
             "name": "Nidoran ♂ (Male)",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452781634224143/Nidoran_Male.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -1075,7 +1139,9 @@
             "id": 33,
             "num": "033",
             "name": "Nidorino",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452905433169950/Nidorino.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -1111,7 +1177,9 @@
             "id": 34,
             "num": "034",
             "name": "Nidoking",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612453081069912094/Nidoking.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/034.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison",
                 "Ground"
@@ -1145,7 +1213,9 @@
             "id": 35,
             "num": "035",
             "name": "Clefairy",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452484765581318/Clefairy.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/035.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1175,7 +1245,9 @@
             "id": 36,
             "num": "036",
             "name": "Clefable",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452823501766666/Clefable.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/036.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1201,7 +1273,9 @@
             "id": 37,
             "num": "037",
             "name": "Vulpix",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452796943433731/Vulpix.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -1233,7 +1307,9 @@
             "id": 38,
             "num": "038",
             "name": "Ninetales",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612453183184175155/Ninetales.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -1261,7 +1337,9 @@
             "id": 39,
             "num": "039",
             "name": "Jigglypuff",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452712583397376/Jigglypuff.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1290,7 +1368,9 @@
             "id": 40,
             "num": "040",
             "name": "Wigglytuff",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452884445003818/Wigglytuff.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1316,7 +1396,9 @@
             "id": 41,
             "num": "041",
             "name": "Zubat",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452573936615425/Zubat.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison",
                 "Flying"
@@ -1350,7 +1432,9 @@
             "id": 42,
             "num": "042",
             "name": "Golbat",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452709966151690/Golbat.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison",
                 "Flying"
@@ -1380,7 +1464,9 @@
             "id": 43,
             "num": "043",
             "name": "Oddish",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452668245540864/Oddish.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1417,7 +1503,9 @@
             "id": 44,
             "num": "044",
             "name": "Gloom",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452666253115422/Gloom.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1456,7 +1544,9 @@
             "id": 45,
             "num": "045",
             "name": "Vileplume",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612452324308287504/Vileplume.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1490,7 +1580,9 @@
             "id": 46,
             "num": "046",
             "name": "Paras",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455056348020779/Paras.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Grass"
@@ -1525,7 +1617,9 @@
             "id": 47,
             "num": "047",
             "name": "Parasect",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456079904997386/Parasect.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Grass"
@@ -1557,7 +1651,9 @@
             "id": 48,
             "num": "048",
             "name": "Venonat",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455806767464448/Venonat.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -1591,7 +1687,9 @@
             "id": 49,
             "num": "049",
             "name": "Venomoth",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456166248939520/Venomoth.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -1621,7 +1719,9 @@
             "id": 50,
             "num": "050",
             "name": "Diglett",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454512900309002/Diglett.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -1652,7 +1752,9 @@
             "id": 51,
             "num": "051",
             "name": "Dugtrio",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455893455470593/Dugtrio.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -1680,7 +1782,9 @@
             "id": 52,
             "num": "052",
             "name": "Meowth",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455402038362133/Meowth.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1709,7 +1813,9 @@
             "id": 53,
             "num": "053",
             "name": "Persian",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456027518009374/Persian.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -1735,7 +1841,9 @@
             "id": 54,
             "num": "054",
             "name": "Psyduck",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455040610992174/Psyduck.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -1765,7 +1873,9 @@
             "id": 55,
             "num": "055",
             "name": "Golduck",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456044282773549/Golduck.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -1792,7 +1902,9 @@
             "id": 56,
             "num": "056",
             "name": "Mankey",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454788327800832/Mankey.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -1824,7 +1936,9 @@
             "id": 57,
             "num": "057",
             "name": "Primeape",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455711821266974/Primeape.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -1852,7 +1966,9 @@
             "id": 58,
             "num": "058",
             "name": "Growlithe",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454807780851765/Growlithe.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -1884,7 +2000,9 @@
             "id": 59,
             "num": "059",
             "name": "Arcanine",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456289049640961/Arcanine.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -1912,7 +2030,9 @@
             "id": 60,
             "num": "060",
             "name": "Poliwag",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455380685160448/Poliwag.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -1947,7 +2067,9 @@
             "id": 61,
             "num": "061",
             "name": "Poliwhirl",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455996383821835/Poliwhirl.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -1983,7 +2105,9 @@
             "id": 62,
             "num": "062",
             "name": "Poliwrath",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612455991891722290/Poliwrath.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Fighting"
@@ -2018,7 +2142,9 @@
             "id": 63,
             "num": "063",
             "name": "Abra",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456172414566401/Abra.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -2054,7 +2180,9 @@
             "id": 64,
             "num": "064",
             "name": "Kadabra",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456263087030273/Kadabra.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -2091,7 +2219,9 @@
             "id": 65,
             "num": "065",
             "name": "Alakazam",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456360260534347/Alakazam.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -2123,7 +2253,9 @@
             "id": 66,
             "num": "066",
             "name": "Machop",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454839208902686/Machop.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -2159,7 +2291,9 @@
             "id": 67,
             "num": "067",
             "name": "Machoke",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456071381909515/Machoke.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -2196,7 +2330,9 @@
             "id": 68,
             "num": "068",
             "name": "Machamp",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612456025848545291/Machamp.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -2228,7 +2364,9 @@
             "id": 69,
             "num": "069",
             "name": "Bellsprout",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612454840181850138/Bellsprout.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2265,7 +2403,9 @@
             "id": 70,
             "num": "070",
             "name": "Weepinbell",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643377413881866/Weepinbell.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2304,7 +2444,9 @@
             "id": 71,
             "num": "071",
             "name": "Victreebel",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644115670237184/Victreebel.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/071.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2338,7 +2480,9 @@
             "id": 72,
             "num": "072",
             "name": "Tentacool",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643295759302656/Tentacool.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/072.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Poison"
@@ -2370,7 +2514,9 @@
             "id": 73,
             "num": "073",
             "name": "Tentacruel",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644737807286277/Tentacruel.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Poison"
@@ -2399,7 +2545,9 @@
             "id": 74,
             "num": "074",
             "name": "Geodude",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643639637704705/Geodude.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2439,7 +2587,9 @@
             "id": 75,
             "num": "075",
             "name": "Graveler",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644680328544278/Graveler.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2481,7 +2631,9 @@
             "id": 76,
             "num": "076",
             "name": "Golem",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644829507354654/Golem.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2517,7 +2669,9 @@
             "id": 77,
             "num": "077",
             "name": "Ponyta",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643745606664204/Ponyta.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/077.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -2549,7 +2703,9 @@
             "id": 78,
             "num": "078",
             "name": "Rapidash",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644822213459968/Rapidash.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -2577,7 +2733,9 @@
             "id": 79,
             "num": "079",
             "name": "Slowpoke",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643276239011840/Slowpoke.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/079.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -2611,7 +2769,9 @@
             "id": 80,
             "num": "080",
             "name": "Slowbro",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644613320081436/Slowbro.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/080.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -2642,7 +2802,9 @@
             "id": 81,
             "num": "081",
             "name": "Magnemite",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642269283090443/Magnemite.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/081.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -2674,7 +2836,9 @@
             "id": 82,
             "num": "082",
             "name": "Magneton",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644659034062892/Magneton.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/082.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -2702,7 +2866,9 @@
             "id": 83,
             "num": "083",
             "name": "Farfetch'd",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643007845629958/Farfetchd.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/083.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2724,7 +2890,9 @@
             "id": 84,
             "num": "084",
             "name": "Doduo",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643215379660840/Doduo.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2756,7 +2924,9 @@
             "id": 85,
             "num": "085",
             "name": "Dodrio",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644233165406258/Dodrio.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/085.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2784,7 +2954,9 @@
             "id": 86,
             "num": "086",
             "name": "Seel",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643545395888128/Seel.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/086.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -2815,7 +2987,9 @@
             "id": 87,
             "num": "087",
             "name": "Dewgong",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643675255603203/Dewgong.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/087.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -2845,7 +3019,9 @@
             "id": 88,
             "num": "088",
             "name": "Grimer",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644659881312266/Grimer.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/088.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -2875,7 +3051,9 @@
             "id": 89,
             "num": "089",
             "name": "Muk",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644917042479133/Muk.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/089.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -2902,7 +3080,9 @@
             "id": 90,
             "num": "090",
             "name": "Shellder",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642841163726858/Shellder.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -2932,7 +3112,9 @@
             "id": 91,
             "num": "091",
             "name": "Cloyster",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644718794244097/Cloyster.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/091.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -2962,7 +3144,9 @@
             "id": 92,
             "num": "092",
             "name": "Gastly",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643739164475394/Gastly.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -2999,7 +3183,9 @@
             "id": 93,
             "num": "093",
             "name": "Haunter",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644438770188324/Haunter.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3039,7 +3225,9 @@
             "id": 94,
             "num": "094",
             "name": "Gengar",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643876909350940/Gengar.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/094.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3073,7 +3261,9 @@
             "id": 95,
             "num": "095",
             "name": "Onix",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644492725714954/Onix.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -3099,7 +3289,9 @@
             "id": 96,
             "num": "096",
             "name": "Drowzee",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643838363959296/Drowzee.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/096.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -3131,7 +3323,9 @@
             "id": 97,
             "num": "097",
             "name": "Hypno",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644064407453696/Hypno.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/097.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -3159,7 +3353,9 @@
             "id": 98,
             "num": "098",
             "name": "Krabby",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643346040750081/Krabby.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/098.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3190,7 +3386,9 @@
             "id": 99,
             "num": "099",
             "name": "Kingler",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644134217580565/Kingler.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3217,7 +3415,9 @@
             "id": 100,
             "num": "100",
             "name": "Voltorb",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643153589305354/Voltorb.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/100.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -3247,7 +3447,9 @@
             "id": 101,
             "num": "101",
             "name": "Electrode",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644184972853288/Electrode.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/101.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -3273,7 +3475,9 @@
             "id": 102,
             "num": "102",
             "name": "Exeggcute",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612643815517454356/Exeggcute.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3310,7 +3514,9 @@
             "id": 103,
             "num": "103",
             "name": "Exeggutor",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612644078970077252/Exeggutor.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3343,7 +3549,9 @@
             "id": 104,
             "num": "104",
             "name": "Cubone",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612642955575951374/Cubone.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/104.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -3374,7 +3582,9 @@
             "id": 105,
             "num": "105",
             "name": "Marowak",
-            "img": "https://cdn.discordapp.com/attachments/283660090781859851/612647211565842454/Marowak.gif",
+            "img": "http://www.serebii.net/pokemongo/pokemon/105.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground"
             ],
@@ -3403,6 +3613,8 @@
             "num": "106",
             "name": "Hitmonlee",
             "img": "http://www.serebii.net/pokemongo/pokemon/106.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -3425,6 +3637,8 @@
             "num": "107",
             "name": "Hitmonchan",
             "img": "http://www.serebii.net/pokemongo/pokemon/107.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fighting"
             ],
@@ -3447,6 +3661,8 @@
             "num": "108",
             "name": "Lickitung",
             "img": "http://www.serebii.net/pokemongo/pokemon/108.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -3467,6 +3683,8 @@
             "num": "109",
             "name": "Koffing",
             "img": "http://www.serebii.net/pokemongo/pokemon/109.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -3497,6 +3715,8 @@
             "num": "110",
             "name": "Weezing",
             "img": "http://www.serebii.net/pokemongo/pokemon/110.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Poison"
             ],
@@ -3524,6 +3744,8 @@
             "num": "111",
             "name": "Rhyhorn",
             "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground",
                 "Rock"
@@ -3559,6 +3781,8 @@
             "num": "112",
             "name": "Rhydon",
             "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ground",
                 "Rock"
@@ -3591,6 +3815,8 @@
             "num": "113",
             "name": "Chansey",
             "img": "http://www.serebii.net/pokemongo/pokemon/113.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -3611,6 +3837,8 @@
             "num": "114",
             "name": "Tangela",
             "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Grass"
             ],
@@ -3635,6 +3863,8 @@
             "num": "115",
             "name": "Kangaskhan",
             "img": "http://www.serebii.net/pokemongo/pokemon/115.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -3655,6 +3885,8 @@
             "num": "116",
             "name": "Horsea",
             "img": "http://www.serebii.net/pokemongo/pokemon/116.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3685,6 +3917,8 @@
             "num": "117",
             "name": "Seadra",
             "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3712,6 +3946,8 @@
             "num": "118",
             "name": "Goldeen",
             "img": "http://www.serebii.net/pokemongo/pokemon/118.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3743,6 +3979,8 @@
             "num": "119",
             "name": "Seaking",
             "img": "http://www.serebii.net/pokemongo/pokemon/119.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3770,6 +4008,8 @@
             "num": "120",
             "name": "Staryu",
             "img": "http://www.serebii.net/pokemongo/pokemon/120.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -3801,6 +4041,8 @@
             "num": "121",
             "name": "Starmie",
             "img": "http://www.serebii.net/pokemongo/pokemon/121.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -3832,6 +4074,8 @@
             "num": "122",
             "name": "Mr. Mime",
             "img": "http://www.serebii.net/pokemongo/pokemon/122.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -3854,6 +4098,8 @@
             "num": "123",
             "name": "Scyther",
             "img": "http://www.serebii.net/pokemongo/pokemon/123.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug",
                 "Flying"
@@ -3879,6 +4125,8 @@
             "num": "124",
             "name": "Jynx",
             "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ice",
                 "Psychic"
@@ -3905,6 +4153,8 @@
             "num": "125",
             "name": "Electabuzz",
             "img": "http://www.serebii.net/pokemongo/pokemon/125.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -3925,6 +4175,8 @@
             "num": "126",
             "name": "Magmar",
             "img": "http://www.serebii.net/pokemongo/pokemon/126.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -3947,6 +4199,8 @@
             "num": "127",
             "name": "Pinsir",
             "img": "http://www.serebii.net/pokemongo/pokemon/127.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Bug"
             ],
@@ -3969,6 +4223,8 @@
             "num": "128",
             "name": "Tauros",
             "img": "http://www.serebii.net/pokemongo/pokemon/128.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -3989,6 +4245,8 @@
             "num": "129",
             "name": "Magikarp",
             "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -4020,6 +4278,8 @@
             "num": "130",
             "name": "Gyarados",
             "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Flying"
@@ -4048,6 +4308,8 @@
             "num": "131",
             "name": "Lapras",
             "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -4072,6 +4334,8 @@
             "num": "132",
             "name": "Ditto",
             "img": "http://www.serebii.net/pokemongo/pokemon/132.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -4092,6 +4356,8 @@
             "num": "133",
             "name": "Eevee",
             "img": "http://www.serebii.net/pokemongo/pokemon/133.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -4130,6 +4396,8 @@
             "num": "134",
             "name": "Vaporeon",
             "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Water"
             ],
@@ -4157,6 +4425,8 @@
             "num": "135",
             "name": "Jolteon",
             "img": "http://www.serebii.net/pokemongo/pokemon/135.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric"
             ],
@@ -4183,6 +4453,8 @@
             "num": "136",
             "name": "Flareon",
             "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire"
             ],
@@ -4211,6 +4483,8 @@
             "num": "137",
             "name": "Porygon",
             "img": "http://www.serebii.net/pokemongo/pokemon/137.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -4231,6 +4505,8 @@
             "num": "138",
             "name": "Omanyte",
             "img": "http://www.serebii.net/pokemongo/pokemon/138.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4264,6 +4540,8 @@
             "num": "139",
             "name": "Omastar",
             "img": "http://www.serebii.net/pokemongo/pokemon/139.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4294,6 +4572,8 @@
             "num": "140",
             "name": "Kabuto",
             "img": "http://www.serebii.net/pokemongo/pokemon/140.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4328,6 +4608,8 @@
             "num": "141",
             "name": "Kabutops",
             "img": "http://www.serebii.net/pokemongo/pokemon/141.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4358,6 +4640,8 @@
             "num": "142",
             "name": "Aerodactyl",
             "img": "http://www.serebii.net/pokemongo/pokemon/142.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Rock",
                 "Flying"
@@ -4383,6 +4667,8 @@
             "num": "143",
             "name": "Snorlax",
             "img": "http://www.serebii.net/pokemongo/pokemon/143.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Normal"
             ],
@@ -4403,6 +4689,8 @@
             "num": "144",
             "name": "Articuno",
             "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Ice",
                 "Flying"
@@ -4427,6 +4715,8 @@
             "num": "145",
             "name": "Zapdos",
             "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Electric",
                 "Flying"
@@ -4449,6 +4739,8 @@
             "num": "146",
             "name": "Moltres",
             "img": "http://www.serebii.net/pokemongo/pokemon/146.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Fire",
                 "Flying"
@@ -4472,6 +4764,8 @@
             "num": "147",
             "name": "Dratini",
             "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Dragon"
             ],
@@ -4508,6 +4802,8 @@
             "num": "148",
             "name": "Dragonair",
             "img": "http://www.serebii.net/pokemongo/pokemon/148.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Dragon"
             ],
@@ -4545,6 +4841,8 @@
             "num": "149",
             "name": "Dragonite",
             "img": "http://www.serebii.net/pokemongo/pokemon/149.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Dragon",
                 "Flying"
@@ -4579,6 +4877,8 @@
             "num": "150",
             "name": "Mewtwo",
             "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
@@ -4601,6 +4901,8 @@
             "num": "151",
             "name": "Mew",
             "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
+            "shinyImg": "",
+            "megaImg":  "",
             "type": [
                 "Psychic"
             ],
