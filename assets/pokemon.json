@@ -7,6 +7,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836683/gen1/Bulbasaur_xb1lql.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841061/gen1/Bulbasaur_j0l6bo.gif",
             "megaImg":  "",
+            "Description":  "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
             "type": [
                 "Grass",
                 "Poison"
@@ -46,6 +47,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837483/gen1/Ivysaur_sdm6qj.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843098/gen1/Ivysaur_yq2pt0.gif",
             "megaImg":  "",
+            "Description":  "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon. ",
             "type": [
                 "Grass",
                 "Poison"
@@ -88,6 +90,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839016/gen1/Venusaur_mrohgb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566870247/Venasaur_pf1d5h.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566839164/gen1/Venusaur_Mega_ay9akp.gif",
+            "Description":  "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people. ",
             "type": [
                 "Grass",
                 "Poison"
@@ -123,8 +126,9 @@
             "name": "Charmander",
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836848/gen1/Charmander_tabxpg.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841887/gen1/Charmander_y96wrv.gif",
-            "megaImg":  "",
-            "type": [
+             "megaImg":  "",
+             "Description":  "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely. ",
+             "type": [
                 "Fire"
             ],
             "height": "0.61 m",
@@ -161,6 +165,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836732/gen1/Charmeleon_uxuim7.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842042/gen1/Charmeleon_bgf0jb.gif",
             "megaImg":  "",
+            "Description":  "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color. ",
             "type": [
                 "Fire"
             ],
@@ -200,6 +205,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836812/gen1/Charizard_sv4j2v.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841800/gen1/Charizard_bj7jpp.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566836903/gen1/Charizard_MegaX_peeynf.gif",
+            "Description":  "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself. ",
             "type": [
                 "Fire",
                 "Flying"
@@ -235,6 +241,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838720/gen1/Squirtle_vvh3g8.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566870573/Squirtle_l4ehcq.gif",
             "megaImg":  "",
+            "Description":  "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds. ",
             "type": [
                 "Water"
             ],
@@ -271,6 +278,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839076/gen1/Wartortle_r9gvbo.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566870640/Wartortle_g2wxli.gif",
             "megaImg":  "",
+            "Description":  "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
             "type": [
                 "Water"
             ],
@@ -309,6 +317,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836850/gen1/Blastoise_qkyzdh.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841955/gen1/Blastoise_pnjogy.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566836833/gen1/Blastoise_Mega_flzhtm.gif",
+            "Description":  "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet. ",
             "type": [
                 "Water"
             ],
@@ -342,6 +351,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839201/gen1/Caterpie_eb3ehf.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841740/gen1/Caterpie_ke6jfa.gif",
             "megaImg":  "",
+            "Description":  "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
             "type": [
                 "Bug"
             ],
@@ -379,6 +389,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838464/gen1/Metapod_flr126.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843884/gen1/Metapod_q2lsy5.gif",
             "megaImg":  "",
+            "Description":  "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
             "type": [
                 "Bug"
             ],
@@ -419,6 +430,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836759/gen1/Butterfree_pihriz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841700/gen1/Butterfree_ihs9ai.gif",
             "megaImg":  "",
+            "Description":  "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest. ",
             "type": [
                 "Bug",
                 "Flying"
@@ -456,6 +468,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839060/gen1/Weedle_hza5jh.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566870807/Weedle_bgo0t4.gif",
             "megaImg":  "",
+            "Description":  "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose). ",
             "type": [
                 "Bug",
                 "Poison"
@@ -496,6 +509,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837595/gen1/Kakuna_tr1dqf.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843333/gen1/Kakuna_qtap4j.gif",
             "megaImg":  "",
+            "Description":  "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
             "type": [
                 "Bug",
                 "Poison"
@@ -538,6 +552,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836090/gen1/Beedrill_ozc7lw.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841531/gen1/Beedrill_vtkrum.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566836110/gen1/Beedrill_Mega_qfeuk6.gif",
+            "Description":  "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm. ",
             "type": [
                 "Bug",
                 "Poison"
@@ -574,6 +589,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838223/gen1/Pidgey_b4mec1.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844672/gen1/Pidgey_gsxnbk.gif",
             "megaImg":  "",
+            "Description":  "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings. ",
             "type": [
                 "Normal",
                 "Flying"
@@ -612,6 +628,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838238/gen1/Pidgeotto_m7uvky.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844660/gen1/Pidgeotto_w8thuj.gif",
             "megaImg":  "",
+            "Description":  "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws. ",
             "type": [
                 "Normal",
                 "Flying"
@@ -651,6 +668,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838230/gen1/Pidgeot_vjzijc.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844702/gen1/Pidgeot_eepotn.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566838261/gen1/Pidgeot_Mega_uenk8r.gif",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -685,6 +703,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838390/gen1/Rattata_tq2g4o.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566870987/Rattata_qlkoip.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -717,6 +736,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838473/gen1/Raticate_f16kms.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871096/Raticate_csyxce.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -745,6 +765,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838686/gen1/Spearow_b4nrfa.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871141/Spearow_zwtmbc.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -779,6 +800,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837117/gen1/Fearow_mszs93.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842530/gen1/Fearow_pkixms.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -809,6 +831,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837057/gen1/Ekans_urrvkj.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871195/Ekans_pm23ee.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -842,6 +865,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836107/gen1/Arbok_ncxwgc.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871274/Arbok_xtcaqv.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -871,6 +895,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838229/gen1/Pikachu_ok3ptn.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871321/Pikachu_owk4w0.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -902,6 +927,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838362/gen1/Raichu_v9qryd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871383/Raichu_kbcsml.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -930,6 +956,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838511/gen1/Sandshrew_uygbgu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871450/Sandshrew_xbjyci.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -963,6 +990,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838615/gen1/Sandslash_nxfmmv.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566871469/Sandslash_thsj3z.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -993,6 +1021,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837988/gen1/Nidoran_Female_qadyf1.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844226/gen1/Nidoran_Female_d1psp0.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -1030,6 +1059,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838042/gen1/Nidorina_bysyow.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844329/gen1/Nidorina_upgusx.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -1069,6 +1099,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838031/gen1/Nidoqueen_hdvwon.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844358/gen1/Nidoqueen_agol9h.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison",
                 "Ground"
@@ -1105,6 +1136,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838032/gen1/Nidoran_Male_sjnghx.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844235/gen1/Nidoran_Male_reu0pb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -1142,6 +1174,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838084/gen1/Nidorino_ylqkpz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844368/gen1/Nidorino_kkhprr.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -1180,6 +1213,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838033/gen1/Nidoking_vmebfp.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844300/gen1/Nidoking_t7w9dq.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison",
                 "Ground"
@@ -1216,6 +1250,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836846/gen1/Clefairy_qh4ymf.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841977/gen1/Clefairy_zerxlm.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1248,6 +1283,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836703/gen1/Clefable_xeaxwu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841961/gen1/Clefable_rujp6i.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1276,6 +1312,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839022/gen1/Vulpix_pgzem1.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877255/Vulpix_ydpsq7.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -1310,6 +1347,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838190/gen1/Ninetales_kzboex.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844659/gen1/Ninetales_r4mxm1.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -1340,6 +1378,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837481/gen1/Jigglypuff_mcukvs.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843124/gen1/Jigglypuff_maf354.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1371,6 +1410,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839140/gen1/Wigglytuff_cgxkon.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877370/Wigglytuff_tjog9b.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1399,6 +1439,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839109/gen1/Zubat_bbcday.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877424/Zubat_jrav2n.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison",
                 "Flying"
@@ -1435,6 +1476,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837212/gen1/Golbat_hks8c7.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842624/gen1/Golbat_p2gq8i.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison",
                 "Flying"
@@ -1467,6 +1509,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838088/gen1/Oddish_zkfxx0.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844400/gen1/Oddish_pyns9l.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1506,6 +1549,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837181/gen1/Gloom_ajbmrb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842528/gen1/Gloom_u5bwj8.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1547,6 +1591,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838971/gen1/Vileplume_i9irne.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877720/Vileplume_Female_dlrn1d.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -1583,6 +1628,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838131/gen1/Paras_km9hr3.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844479/gen1/Paras_xm0eab.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Bug",
                 "Grass"
@@ -1620,6 +1666,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838191/gen1/Parasect_x2lcko.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844551/gen1/Parasect_ld3rcz.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Bug",
                 "Grass"
@@ -1654,6 +1701,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838915/gen1/Venonat_dzmt7l.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877879/Venonat_dfamey.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -1690,6 +1738,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838899/gen1/Venomoth_g5zjzb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566877933/Venomoth_sop1fa.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Bug",
                 "Poison"
@@ -1722,6 +1771,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836879/gen1/Diglett_ynezvf.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842004/gen1/Diglett_b9epim.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -1755,6 +1805,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837036/gen1/Dugtrio_josx84.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842307/gen1/Dugtrio_sx8obd.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -1785,6 +1836,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837853/gen1/Meowth_rbsiwl.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878034/Meowth_d69ie0.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1816,6 +1868,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838203/gen1/Persian_epwowk.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878088/Persian_vdccrb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -1844,6 +1897,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838367/gen1/Psyduck_l0qrcu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878191/Psyduck_jsxqnx.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -1876,6 +1930,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837286/gen1/Golduck_qjuffb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842772/gen1/Golduck_ejsdvg.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -1905,6 +1960,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837803/gen1/Mankey_zg6r52.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843776/gen1/Mankey_les2ut.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -1939,6 +1995,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838364/gen1/Primeape_qr6srt.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878279/Primeape_fbkdte.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -1969,6 +2026,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837301/gen1/Growlithe_iahisg.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842803/gen1/Growlithe_tgobph.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -2003,6 +2061,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836130/gen1/Arcanine_tpnnpq.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841577/gen1/Arcanine_ifwpn4.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -2033,6 +2092,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838280/gen1/Poliwag_xri4p2.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878346/Poliwag_fqup9d.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -2070,6 +2130,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838318/gen1/Poliwhirl_q0cil9.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878387/Poliwhirl_q4zfnl.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -2108,6 +2169,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838314/gen1/Poliwrath_rah98o.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878427/Poliwrath_a5tph9.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Fighting"
@@ -2145,6 +2207,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836073/gen1/Abra_efn03s.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841406/gen1/Abra_bzsv6a.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -2183,6 +2246,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837642/gen1/Kadabra_waknof.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843384/gen1/Kadabra_b2ssh2.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -2222,6 +2286,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836226/gen1/Alakazam_mmv2hp.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841532/gen1/Alakazam_Female_ivzwb8.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -2256,6 +2321,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837755/gen1/Machop_onul5a.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843716/gen1/Machop_ccyode.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -2294,6 +2360,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837780/gen1/Machoke_shmytd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843696/gen1/Machoke_e7x8df.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -2333,6 +2400,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566878710/Machamp_h6zlee.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843664/gen1/Machamp_ylaydw.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -2367,6 +2435,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836035/gen1/Bellsprout_dpv9p2.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841607/gen1/Bellsprout_dlgxcd.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2406,6 +2475,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839074/gen1/Weepinbell_qivybd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878786/Weepinbell_jdseja.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2447,6 +2517,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839080/gen1/Victreebel_zq3tty.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878838/Victreebel_mif1hw.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Poison"
@@ -2483,6 +2554,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838813/gen1/Tentacool_zjhmbh.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878875/Tentacool_rcdftl.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Poison"
@@ -2517,6 +2589,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838947/gen1/Tentacruel_wdkrft.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566878952/Tentacruel_mriroz.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Poison"
@@ -2548,6 +2621,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837192/gen1/Geodude_arjjki.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842508/gen1/Geodude_fckapy.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2590,6 +2664,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837318/gen1/Graveler_jce7d5.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842816/gen1/Graveler_mlb08c.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2634,6 +2709,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837337/gen1/Golem_uixpma.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842920/gen1/Golem_uwdrxt.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -2672,6 +2748,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838333/gen1/Ponyta_c4gmqm.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879182/Ponyta_nlk7lf.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -2706,6 +2783,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838514/gen1/Rapidash_mvzlsd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879233/Rapidash_hhawp8.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -2736,6 +2814,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838695/gen1/Slowpoke_ixed4x.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879270/Slowpoke_aoxnme.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -2772,6 +2851,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838793/gen1/Slowbro_mqj4ii.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879372/Slowbro_wbm719.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566838765/gen1/Slowbro_Mega_rd2ptf.gif",
+            "Description":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -2805,6 +2885,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837783/gen1/Magnemite_xxd9lo.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843767/gen1/Magnemite_xrm8vo.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -2839,6 +2920,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837884/gen1/Magneton_xnnxtd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843973/gen1/Magneton_n53vgw.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -2869,6 +2951,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837099/gen1/Farfetchd_myl5tp.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842386/gen1/Farfetchd_ez6cnb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2893,6 +2976,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836951/gen1/Doduo_pgzlwp.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842119/gen1/Doduo_jpzrxi.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2927,6 +3011,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837023/gen1/Dodrio_pgl2qn.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879571/Dodrio_pieffs.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal",
                 "Flying"
@@ -2957,6 +3042,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838665/gen1/Seel_u1rrjt.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879621/Seel_yut3vb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -2990,6 +3076,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836906/gen1/Dewgong_mepfzq.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842124/gen1/Dewgong_gqodet.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -3022,6 +3109,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839183/gen1/Grimer_vve4jr.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879723/Grimer_gd1tzk.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -3054,6 +3142,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838060/gen1/Muk_lcwlyl.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844369/gen1/Muk_tjdhft.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -3083,6 +3172,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838659/gen1/Shellder_bog3y2.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879773/Shellder_pcnkzd.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3115,6 +3205,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836961/gen1/Cloyster_e8gjlb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842119/gen1/Cloyster_op3xvj.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -3147,6 +3238,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837159/gen1/Gastly_hlqldy.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566879837/Ghastly_wl2ch9.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3186,6 +3278,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837399/gen1/Haunter_vmfaqy.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842958/gen1/Haunter_z15xjy.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3228,6 +3321,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837172/gen1/Gengar_mqgngu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842563/gen1/Gengar_nctguf.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566837267/gen1/Gengar_Mega_xqx8ws.gif",
+            "Description":  "",
             "type": [
                 "Ghost",
                 "Poison"
@@ -3264,6 +3358,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838184/gen1/Onix_qbsavr.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844587/gen1/Onix_blq2ic.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Ground"
@@ -3292,6 +3387,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837035/gen1/Drowzee_rqrz0q.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842271/gen1/Drowzee_u4rwkq.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -3326,6 +3422,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837470/gen1/Hypno_m3kkjo.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843113/gen1/Hypno_hyt3q5.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -3356,6 +3453,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837697/gen1/Krabby_s5qq0j.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843481/gen1/Krabby_grvbep.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3389,6 +3487,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837673/gen1/Kingler_rlykqt.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843488/gen1/Kingler_dtkx6o.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3418,6 +3517,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839006/gen1/Voltorb_oyvfne.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880028/Voltorb_mfg5jf.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -3450,6 +3550,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837114/gen1/Electrode_nysmjx.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880075/Electrode_cr1ftp.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -3478,6 +3579,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837144/gen1/Exeggcute_vdc1st.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842368/gen1/Exeggcute_y5z7ue.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3517,6 +3619,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837126/gen1/Exeggutor_beunhz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842446/gen1/Exeggutor_oposps.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass",
                 "Psychic"
@@ -3552,6 +3655,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836900/gen1/Cubone_abgmcx.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841981/gen1/Cubone_diwy4l.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -3585,6 +3689,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837827/gen1/Marowak_x3a3fw.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843839/gen1/Marowak_plqaiv.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground"
             ],
@@ -3615,6 +3720,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837374/gen1/Hitmonlee_nfwfsz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842937/gen1/Hitmonlee_ekihwb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -3639,6 +3745,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837381/gen1/Hitmonchan_lsblpu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842857/gen1/Hitmonchan_ju6uch.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fighting"
             ],
@@ -3663,6 +3770,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837706/gen1/Lickitung_uximpc.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843546/gen1/Lickitung_nf3mvj.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -3685,6 +3793,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837707/gen1/Koffing_vyuzia.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843631/gen1/Koffing_aejtwj.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -3717,6 +3826,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839163/gen1/Weezing_tuhpcd.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880263/Weezing_ihcfl3.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Poison"
             ],
@@ -3746,6 +3856,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838560/gen1/Rhyhorn_qoztwu.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880498/Rhyhorn_peil0z.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground",
                 "Rock"
@@ -3783,6 +3894,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838526/gen1/Rhydon_uogmoh.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880394/Rhydon_uamff1.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ground",
                 "Rock"
@@ -3817,6 +3929,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836762/gen1/Chansey_qlkhzs.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880470/Chansey_yjypy1.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -3839,6 +3952,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838847/gen1/Tangela_akkdyb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880577/Tangela_z7ypsb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Grass"
             ],
@@ -3865,6 +3979,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837711/gen1/Kangaskhan_qs9uxx.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843599/gen1/Kangaskhan_mm1tcd.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -3887,6 +4002,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837429/gen1/Horsea_zmctxw.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843008/gen1/Horsea_wn59mr.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3919,6 +4035,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838638/gen1/Seadra_wimmq5.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880652/Seadra_bro4ki.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3948,6 +4065,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837245/gen1/Goldeen_lew4vg.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842653/gen1/Goldeen_v2xx8m.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -3981,6 +4099,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838643/gen1/Seaking_sgrxta.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880777/Seaking_bqtohe.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -4010,6 +4129,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838767/gen1/Staryu_feywoe.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880824/Staryu_odddod.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -4043,6 +4163,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566880905/Starmie_cnkcdj.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880886/Starmie_j69i9r.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Psychic"
@@ -4076,6 +4197,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838007/gen1/Mr.-Mime_rmwdih.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844395/gen1/Mr.-Mime_ee0ygb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -4100,6 +4222,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838610/gen1/Scyther_iwy0y9.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566880989/Scyther_ke1c2n.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Bug",
                 "Flying"
@@ -4127,6 +4250,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837590/gen1/Jynx_mcb8gy.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843373/gen1/Jynx_askqk8.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ice",
                 "Psychic"
@@ -4155,6 +4279,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837130/gen1/Electabuzz_qvwef6.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842415/gen1/Electabuzz_zdidmz.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -4177,6 +4302,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837873/gen1/Magmar_w8yuew.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843948/gen1/Magmar_cqqscx.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -4201,6 +4327,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838305/gen1/Pinsir_th19pg.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881126/Pinsir_isrbuz.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566838340/gen1/Pinsir_Mega_ifs4fb.gif",
+            "Description":  "",
             "type": [
                 "Bug"
             ],
@@ -4225,6 +4352,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838834/gen1/Tauros_tavmzo.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881176/Tauros_tcny6n.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -4247,6 +4375,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837743/gen1/Magikarp_m4kbkz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843697/gen1/Magikarp_oqceys.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -4280,6 +4409,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837458/gen1/Gyarados_aovoek.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843030/gen1/Gyarados_f0nil8.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566837514/gen1/Gyarados_Mega_co4vuw.gif",
+            "Description":  "",
             "type": [
                 "Water",
                 "Flying"
@@ -4310,6 +4440,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837827/gen1/Lapras_lmxzqb.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843779/gen1/Lapras_h4r0mv.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water",
                 "Ice"
@@ -4336,6 +4467,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836889/gen1/Ditto_gdl7fj.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842028/gen1/Ditto_dt1ef1.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -4358,6 +4490,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837033/gen1/Eevee_q1qbk9.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842278/gen1/Eevee_jndpdd.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -4398,6 +4531,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838947/gen1/Vaporeon_hons9x.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881327/Vaporeon_lult7c.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Water"
             ],
@@ -4427,6 +4561,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837525/gen1/Jolteon_jhyoda.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843195/gen1/Jolteon_ahn8v2.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric"
             ],
@@ -4455,6 +4590,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837140/gen1/Flareon_zsg2hc.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842459/gen1/Flareon_dhbbsb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire"
             ],
@@ -4485,6 +4621,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838339/gen1/Porygon_jkv26t.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881391/Porygon_uy788o.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -4507,6 +4644,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838118/gen1/Omanyte_qneevh.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881446/Omanyte_eahlog.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4542,6 +4680,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838167/gen1/Omastar_egnmsz.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844610/gen1/Omastar_rndhle.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4574,6 +4713,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837569/gen1/Kabuto_kc25vw.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843181/gen1/Kabuto_iydlzi.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4610,6 +4750,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837551/gen1/Kabutops_c1belr.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843241/gen1/Kabutops_gihyw0.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Water"
@@ -4642,6 +4783,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836076/gen1/Aerodactyl_qla2zi.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841279/gen1/Aerodactyl_rim7mi.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566836192/gen1/Aerodactyl_Mega_q5cljm.gif",
+            "Description":  "",
             "type": [
                 "Rock",
                 "Flying"
@@ -4669,6 +4811,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566838778/gen1/Snorlax_iorfkt.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881629/Snorlax_alobdz.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Normal"
             ],
@@ -4691,6 +4834,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566836022/gen1/Articuno_rkmmy4.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566841391/gen1/Articuno_psovlb.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Ice",
                 "Flying"
@@ -4717,6 +4861,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566839187/gen1/Zapdos_xiqnkj.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566881726/Zapdos_mnalpa.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Electric",
                 "Flying"
@@ -4741,6 +4886,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837938/gen1/Moltres_jbcomk.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844121/gen1/Moltres_h23xss.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Fire",
                 "Flying"
@@ -4766,6 +4912,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837002/gen1/Dratini_ukly4i.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842195/gen1/Dratini_wwkfhc.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Dragon"
             ],
@@ -4804,6 +4951,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837044/gen1/Dragonair_aw8p2a.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842243/gen1/Dragonair_jylri9.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Dragon"
             ],
@@ -4843,6 +4991,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837027/gen1/Dragonite_fqdxzr.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566842274/gen1/Dragonite_l69qiq.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Dragon",
                 "Flying"
@@ -4879,6 +5028,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837944/gen1/Mewtwo_mnrkbn.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566844143/gen1/Mewtwo_oeevjy.gif",
             "megaImg":  "https://res.cloudinary.com/pokedevman/image/upload/v1566839189/gen1/Mewtwo_MegaY_wlssay.gif",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
@@ -4903,6 +5053,7 @@
             "img": "https://res.cloudinary.com/pokedevman/image/upload/v1566837860/gen1/Mew_xqgmnf.gif",
             "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1566843860/gen1/Mew_p6sdl2.gif",
             "megaImg":  "",
+            "Description":  "",
             "type": [
                 "Psychic"
             ],
