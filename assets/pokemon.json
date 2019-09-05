@@ -5082,7 +5082,7 @@
             "type": [
                 "Grass"
             ],
-            "height": "0.9 m",
+            "height": "0.90 m",
             "weight": "6.4 kg",
             "candy": "Chikorita Candy",
             "candy_count": 25,
@@ -5108,6 +5108,309 @@
                 {
                     "num": "154",
                     "name": "Meganium"
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "num": "153",
+            "name": "Bayleef",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567650644/gen2/Bayleef_yr4dty.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567657061/gen2/Bayleef_judnjt.gif",
+            "megaImg":  "",
+            "Description":  "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+            "type": [
+                "Grass"
+            ],
+            "height": "1.20 m",
+            "weight": "15.8 kg",
+            "candy": "Bayleef Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Bug",
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "152",
+                    "name": "Chikorita"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "154",
+                    "name": "Meganium"
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "num": "154",
+            "name": "Meganium",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567649335/gen2/Meganium_cao0sc.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567652604/gen2/Meganium_fkzbvi.gif",
+            "megaImg":  "",
+            "Description":  "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+            "type": [
+                "Grass"
+            ],
+            "height": "2.01 m",
+            "weight": "100.0 kg",
+            "candy": "Bulbasaur Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.017,
+            "avg_spawns": 1.7,
+            "spawn_time": "11:30",
+            "multipliers": null,
+            "weaknesses": [
+                "Bug",
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "152",
+                    "name": "Chikorita"
+                },
+                {
+                    "num": "153",
+                    "name": "Bayleef"
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "num": "155",
+            "name": "Cyndaquil",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567648640/gen2/Cyndaquil_knm7pq.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567651197/gen2/Cyndaquil_e2w53s.gif",
+             "megaImg":  "",
+             "Description":  "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+             "type": [
+                "Fire"
+            ],
+            "height": "0.50 m",
+            "weight": "7.9 kg",
+            "candy": "Charmander Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.253,
+            "avg_spawns": 25.3,
+            "spawn_time": "08:45",
+            "multipliers": [
+                1.65
+            ],
+            "weaknesses": [
+                "Ground",
+                "Rock",
+                "Water"
+            ],
+            "next_evolution": [
+                {
+                    "num": "156",
+                    "name": "Quilava"
+                },
+                {
+                    "num": "157",
+                    "name": "Typhlosion"
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "num": "156",
+            "name": "Quilava",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567649579/gen2/Quilava_tx18hd.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567652958/gen2/Quilava_ohvfpo.gif",
+            "megaImg":  "",
+            "Description":  "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+            "type": [
+                "Fire"
+            ],
+            "height": "0.90 m",
+            "weight": "19.0 kg",
+            "candy": "Charmander Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.012,
+            "avg_spawns": 1.2,
+            "spawn_time": "19:00",
+            "multipliers": [
+                1.79
+            ],
+            "weaknesses": [
+                "Ground",
+                "Rock",
+                "Water"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "155",
+                    "name": "Cyndaquil"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "157",
+                    "name": "Typhlosion"
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "num": "157",
+            "name": "Typhlosion",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567650151/gen2/Typhlosion_givm3r.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567654029/gen2/Typhlosion_wjvglv.gif",
+            "megaImg":  "",
+            "Description":  "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
+            "type": [
+                "Fire"
+            ],
+            "height": "1.70 m",
+            "weight": "79.5 kg",
+            "candy": "Charmander Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.0031,
+            "avg_spawns": 0.31,
+            "spawn_time": "13:34",
+            "multipliers": null,
+            "weaknesses": [
+                "Ground",
+                "Rock",
+                "Water"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "155",
+                    "name": "Cyndaquil"
+                },
+                {
+                    "num": "156",
+                    "name": "Quilava"
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "num": "158",
+            "name": "Totodile",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567650065/gen2/Totodile_ejbh6a.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567656713/gen2/Totodile_i4yodf.gif",
+            "megaImg":  "",
+            "Description":  "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+            "type": [
+                "Water"
+            ],
+            "height": "0.60 m",
+            "weight": "9.5 kg",
+            "candy": "Squirtle Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.58,
+            "avg_spawns": 58,
+            "spawn_time": "04:25",
+            "multipliers": [
+                2.1
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "next_evolution": [
+                {
+                    "num": "159",
+                    "name": "Croconaw"
+                },
+                {
+                    "num": "160",
+                    "name": "Feraligatr"
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "num": "159",
+            "name": "Croconaw",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567648680/gen2/Croconaw_eveoim.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567651321/gen2/Croconaw_odxsqb.gif",
+            "megaImg":  "",
+            "Description":  "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+            "type": [
+                "Water"
+            ],
+            "height": "1.10 m",
+            "weight": "25.0 kg",
+            "candy": "Squirtle Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.034,
+            "avg_spawns": 3.4,
+            "spawn_time": "07:02",
+            "multipliers": [
+                1.4
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "158",
+                    "name": "Totodile"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "160",
+                    "name": "Feraligatr"
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "num": "160",
+            "name": "Feraligatr",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567650880/gen2/Feraligatr_szduoz.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567651622/gen2/Feraligatr_ii8ygy.gif",
+            "megaImg":  "",
+            "Description":  "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+            "type": [
+                "Water"
+            ],
+            "height": "2.30 m",
+            "weight": "88.8 kg",
+            "candy": "Squirtle Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.0067,
+            "avg_spawns": 0.67,
+            "spawn_time": "00:06",
+            "multipliers": null,
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "158",
+                    "name": "Totodile"
+                },
+                {
+                    "num": "159",
+                    "name": "Croconaw"
                 }
             ]
         }
