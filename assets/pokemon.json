@@ -5070,6 +5070,46 @@
                 "Ghost",
                 "Dark"
             ]
+        },
+        {
+            "id": 152,
+            "num": "152",
+            "name": "Chikorita",
+            "img": "https://res.cloudinary.com/pokedevman/image/upload/v1567644567/gen2/Chikorita_wzbj0f.gif",
+            "shinyImg": "https://res.cloudinary.com/pokedevman/image/upload/v1567644623/gen2/Chikorita_jvjr59.gif",
+            "megaImg":  "",
+            "Description":  "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
+            "type": [
+                "Grass"
+            ],
+            "height": "0.9 m",
+            "weight": "6.4 kg",
+            "candy": "Chikorita Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [
+                1.58
+            ],
+            "weaknesses": [
+                "Bug",
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison"
+            ],
+            "next_evolution": [
+                {
+                    "num": "153",
+                    "name": "Bayleef"
+                },
+                {
+                    "num": "154",
+                    "name": "Meganium"
+                }
+            ]
         }
     ]
 }
